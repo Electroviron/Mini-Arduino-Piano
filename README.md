@@ -41,5 +41,3 @@ A5 = 880 Hz
 - Frequency perception changes across notes
 - Simulation vs physical hardware differences
 
-## License
-MIT
