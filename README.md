@@ -1,6 +1,6 @@
 # Mini Arduino Piano
 
-![Logo](media/diagram2.jpg) 
+![Logo](media/diagram2.png) 
 
 A 6-key Arduino-based mini piano using push buttons to play notes from C5 to A5.  
 Simulated on Wokwi and built with real hardware.
